@@ -1,4 +1,4 @@
-8# Web_Scrapping
+# Web_Scrapping
   
 # Web Scraping README 
  
